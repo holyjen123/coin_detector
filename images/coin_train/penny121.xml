@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coin_train</folder>
+	<filename>penny121.jpg</filename>
+	<path>/Users/hollyjen123/Desktop/object_detection/images/coin_train/penny121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>249</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penny</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>35</ymin>
+			<xmax>213</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

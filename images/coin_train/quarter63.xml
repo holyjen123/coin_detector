@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coin_train</folder>
+	<filename>quarter63.jpg</filename>
+	<path>/Users/hollyjen123/Desktop/object_detection/images/coin_train/quarter63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quarter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>23</ymin>
+			<xmax>139</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>
