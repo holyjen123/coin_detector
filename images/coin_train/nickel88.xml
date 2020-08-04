@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coin_train</folder>
+	<filename>nickel88.jpg</filename>
+	<path>/Users/hollyjen123/Desktop/object_detection/images/coin_train/nickel88.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nickel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>18</ymin>
+			<xmax>603</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>
