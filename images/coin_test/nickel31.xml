@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coin_test</folder>
+	<filename>nickel31.jpg</filename>
+	<path>/Users/hollyjen123/Desktop/object_detection/images/coin_test/nickel31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nickel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>5</ymin>
+			<xmax>781</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

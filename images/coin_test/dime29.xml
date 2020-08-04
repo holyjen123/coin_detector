@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coin_test</folder>
+	<filename>dime29.jpg</filename>
+	<path>/Users/hollyjen123/Desktop/object_detection/images/coin_test/dime29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dime</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>23</ymin>
+			<xmax>778</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>
