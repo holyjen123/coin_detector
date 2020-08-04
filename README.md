@@ -13,9 +13,9 @@ Unlike my previous model, I made sure to feed my model a much larger quantity of
 
 <img src="https://github.com/holyjen123/coin_detector/blob/master/readme_images/penny.png" alt="penny" width="200" height="175">
 <img src="https://github.com/holyjen123/coin_detector/blob/master/readme_images/quarter.png" alt="quarter" width="300" height="275">
-first picture detected penny with a threshold of 0.52 
+*first picture detected penny with a threshold of 0.52 
 <br>
-second picture detected nickel with a threshold of 0.14
+*second picture detected nickel with a threshold of 0.14
 <br>
 <br>
 The first test, I got pretty good results. However, the second test shows a very poor threshold. The model also shows that it detected a wrong coin. 
