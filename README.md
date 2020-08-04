@@ -17,6 +17,7 @@ first picture detected penny with a threshold of 0.52
 <br>
 second picture detected nickel with a threshold of 0.14
 <br>
+<br>
 The first test, I got pretty good results. However, the second test shows a very poor threshold. The model also shows that it detected a wrong coin. 
 
 ## Problems
