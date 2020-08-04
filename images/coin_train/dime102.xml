@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coin_train</folder>
+	<filename>dime102.jpg</filename>
+	<path>/Users/hollyjen123/Desktop/object_detection/images/coin_train/dime102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>475</width>
+		<height>265</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dime</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>34</ymin>
+			<xmax>350</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

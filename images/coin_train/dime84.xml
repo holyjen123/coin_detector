@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coin_train</folder>
+	<filename>dime84.jpg</filename>
+	<path>/Users/hollyjen123/Desktop/object_detection/images/coin_train/dime84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>422</width>
+		<height>266</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quarter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>6</ymin>
+			<xmax>347</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>
